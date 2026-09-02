@@ -21,3 +21,9 @@ Do not invent a business or FMD product suite (no BRD/PRD/GTM). Do not auto-load
 ## Ownership
 
 Owner: GDG PUP Technology (incoming CTO). Handover 2026-09-02.
+
+## FMD
+
+**Built on FMD philosophy (v1.31.0)** - INDEX / STATE / FLAGS control plane for humans and AI; no FMD engine install.
+
+Read order stays: docs/state.md then docs/index.md then FLAGS.md then task docs.
