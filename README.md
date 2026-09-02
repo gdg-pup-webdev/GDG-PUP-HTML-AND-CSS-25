@@ -93,3 +93,22 @@ Submit your completed Post-Jam Activity via **Google Classroom**.
 We’re excited to see your creativity! Remember, every line of code you write brings you one step closer to mastering web development.
 
 *Built with ❤️ by GDG on Campus PUP*
+
+---
+
+## Documentation
+
+- [docs/state.md](docs/state.md) - Teaching position / handover
+- [docs/index.md](docs/index.md) - Doc inventory
+- [FLAGS.md](FLAGS.md) - Improvement register
+- [AGENTS.md](AGENTS.md) - Agent load order
+
+## Contributors
+
+This project is made possible by the GDG PUP community:
+
+| Role | Name |
+| --- | --- |
+| Development | [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) - Senior Backend Developer / Web Development Learning Head |
+| Development | [Keith Justine A. Virgenes](https://www.linkedin.com/in/keith-justine-virgenes-749225302) - Backend Developer / QA |
+| Development | strawberryprince |
