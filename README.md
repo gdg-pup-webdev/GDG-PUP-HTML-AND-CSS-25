@@ -1,5 +1,9 @@
 # GDG PUP HTML & CSS Study Jam 1
 
+[![Status: Teaching](https://img.shields.io/badge/Status-Teaching-blue)](docs/state.md)
+[![FMD philosophy: 1.31.0](https://img.shields.io/badge/FMD%20philosophy-1.31.0-blue)](AGENTS.md)
+
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -10,6 +14,7 @@ This repository contains the materials and activities for our study jam. Whether
 ## Table of Contents
 
 - [About](#about)
+- [Start here](#start-here)
 - [Repository structure](#repository-structure)
 - [Quick start](#quick-start)
 - [Submission](#submission)
@@ -19,6 +24,12 @@ This repository contains the materials and activities for our study jam. Whether
 ## About
 
 This is the HTML & CSS Study Jam workshop repo from GDG on Campus PUP. It includes the finished live-project template, a post-jam challenge, and shared assets so beginners can build and extend a first portfolio site.
+
+## Start here
+
+- **Humans:** this README, then [docs/state.md](docs/state.md)
+- **Agents:** [AGENTS.md](AGENTS.md) (state → index → FLAGS)
+- **Contributors:** table below
 
 ## Repository structure
 
@@ -124,10 +135,12 @@ We're excited to see your creativity! Remember, every line of code you write bri
 
 ## Contributors
 
-This project is made possible by the GDG PUP community:
+This project is made possible by the GDG PUP community.
 
-| Role | Name |
-| --- | --- |
-| Development | [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) - Senior Backend Developer / Web Development Learning Head |
-| Development | [Keith Justine A. Virgenes](https://www.linkedin.com/in/keith-justine-virgenes-749225302) - Backend Developer / QA |
-| Development | strawberryprince |
+| Name | Role | GitHub |
+| --- | --- | --- |
+| [Carlos Jerico Dela Torre](https://www.linkedin.com/in/delatorrecj) | Chief Technology Officer (2025-2026) | [@delatorrecj](https://github.com/delatorrecj) |
+| [Gerald Berongoy](https://www.linkedin.com/in/geraldberongoy) | Senior Backend Developer / Web Development Learning Head | [@geraldsberongoy](https://github.com/geraldsberongoy) |
+| [Keith Justine A. Virgenes](https://www.linkedin.com/in/keith-justine-virgenes-749225302) | Backend Developer / QA | [@jhonkeithman123](https://github.com/jhonkeithman123) |
+| [Strawberry Balasbas](https://www.linkedin.com/in/strawberrypink) | Technical Documentations Officer | [@moonintaurus](https://github.com/moonintaurus) |
+
